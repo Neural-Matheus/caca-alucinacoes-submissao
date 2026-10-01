@@ -1,0 +1,9 @@
+# versões da imagem em que os resultados foram medidos (torch 2.6.0+cu124 vem da imagem base)
+gliner2[local]==2.0.0
+transformers==4.57.6
+tokenizers==0.22.2
+huggingface_hub==0.36.2
+safetensors==0.8.0
+protobuf==7.36.2
+numpy==2.2.2
+pandas==3.0.6

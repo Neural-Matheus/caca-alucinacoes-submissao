@@ -1,0 +1,8 @@
+*
+!requirements.txt
+!baixar_modelo.py
+!cacador/
+!run_baseline.py
+!run.sh
+!CONFIANCA.json
+**/__pycache__

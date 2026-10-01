@@ -1,0 +1,16 @@
+{
+  "incompleta/-": 0.99,
+  "juris/ambiguo": 0.99,
+  "juris/ausente": 0.99,
+  "juris/unico": 0.99,
+  "lei/ausente": 0.99,
+  "lei/unico": 0.99,
+  "modelo/incompleta/-": 0.99,
+  "modelo/juris/ambiguo": 0.6336,
+  "modelo/juris/ausente": 0.9706,
+  "modelo/juris/unico": 0.99,
+  "sumula/ausente": 0.99,
+  "sumula/inferido": 0.99,
+  "sumula/unico": 0.99,
+  "tema/ausente": 0.99
+}
